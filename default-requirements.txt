@@ -1,8 +1,8 @@
-Django ==3.2.5
-WeasyPrint ==52.5
-mysqlclient ==2.0.3
-requests ==2.26.0
-django-debug-toolbar ==3.2.1
+Django ==4.2.1
+WeasyPrint ==59.0
+mysqlclient ==2.1.1
+requests ==2.30.0
+django-debug-toolbar ==4.0.0
 
 # weasyprint for windows requires gtk3
 # https://github.com/tschoonj/GTK-for-Windows-Runtime-Environment-Installer/releases
