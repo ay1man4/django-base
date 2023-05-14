@@ -1,4 +1,4 @@
-FROM python:3.9.7-buster
+FROM python:3.9-buster
 ENV PYTHONUNBUFFERED 1
 
 # Weasyprint requires fonts to work properly. Copy required fonts to this directory.
